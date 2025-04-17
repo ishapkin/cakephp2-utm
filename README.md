@@ -10,4 +10,4 @@ docker-compose up -d
   [http://localhost:8000/statistics/utm_list](http://localhost:8000/statistics/utm_list)
 
 ## CRUD для UTM-data
-  [http://localhost:8000/statistics/utm_list](http://localhost:8000/statistics/utm_list)
+  [http://localhost:8000/utm_data](http://localhost:8000/utm_data)
